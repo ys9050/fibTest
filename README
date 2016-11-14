@@ -1,0 +1,2 @@
+Quick test to see advantages of dynamic programming as well as memoization.
+Input is an integer of base number needed for fibonacci sequence. Output is the time it takes to calculate using recursive n^2 method and dynamic O(n) method.
